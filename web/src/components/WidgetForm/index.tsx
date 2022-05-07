@@ -64,7 +64,7 @@ export function WidgetForm() {
             )}
 
             <footer className="text-xs text-neutral-400">
-                Feito com ♥ pela{' '}
+                Feito com ♥ pelo{' '}
                 <a
                     href="https://github.com/edsonjaguiar"
                     target="_blank"
